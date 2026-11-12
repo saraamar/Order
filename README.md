@@ -1,7 +1,6 @@
 # Order Matters: code and data
 
-Code and data for the paper *Order Matters: How Criterion Order Distorts Profile-Area Multicriteria Scores, and What an
-Order-Invariant Score Reduces To* (Sara Amar, manuscript in preparation).
+Code and data for the paper *Order Matters: Criterion Order and the Reliability of Profile-Area Scores in Multicriteria Decision Analysis* (Sara Amar, manuscript in preparation).
 
 Profile-area methods score an alternative by the area under a curve drawn through its criterion ratings, with the
 criteria placed along an axis according to their importance. This repository contains
