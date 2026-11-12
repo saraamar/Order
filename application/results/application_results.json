@@ -1,0 +1,134 @@
+{
+ "weights": {
+  "C7": 0.4083,
+  "C1": 0.2417,
+  "C2": 0.1583,
+  "C5": 0.1028,
+  "C3": 0.0611,
+  "C4": 0.0278
+ },
+ "ws_winner": "Chicago",
+ "L": {
+  "n_distinct_winners": 4,
+  "share_ws_winner_first": 91.4,
+  "tau_min": 0.383,
+  "tau_median": 0.75,
+  "tau_max": 0.983,
+  "share_orderings_neg_weight": 0.0,
+  "avg_winner": "Chicago",
+  "winners": {
+   "Chicago": 91.4,
+   "Grand Rapids": 6.1,
+   "Indianapolis": 1.4,
+   "Kansas City": 1.1
+  },
+  "prop5_max_abs_err": 4.579669976578771e-16,
+  "averaged_weights": {
+   "C7": 0.2633,
+   "C1": 0.1967,
+   "C2": 0.1633,
+   "C5": 0.1411,
+   "C3": 0.1244,
+   "C4": 0.1111
+  },
+  "ws_winner_rank_range": [
+   1,
+   6
+  ],
+  "ordering_ws_winner_worst": [
+   "C5",
+   "C4",
+   "C2",
+   "C1",
+   "C7",
+   "C3"
+  ]
+ },
+ "P": {
+  "n_distinct_winners": 10,
+  "share_ws_winner_first": 28.3,
+  "tau_min": -0.417,
+  "tau_median": 0.35,
+  "tau_max": 0.9,
+  "share_orderings_neg_weight": 96.1,
+  "avg_winner": "Indianapolis",
+  "winners": {
+   "Chicago": 28.3,
+   "Indianapolis": 22.8,
+   "Grand Rapids": 18.2,
+   "Detroit": 12.5,
+   "Kansas City": 6.0,
+   "Cleveland": 4.7,
+   "Minneapolis-St. Paul": 3.1,
+   "Madison": 1.8,
+   "Milwaukee": 1.7,
+   "St. Louis": 1.0
+  }
+ },
+ "S": {
+  "n_distinct_winners": 7,
+  "share_ws_winner_first": 38.8,
+  "tau_min": -0.133,
+  "tau_median": 0.633,
+  "tau_max": 0.933,
+  "share_orderings_neg_weight": 88.9,
+  "avg_winner": "Chicago",
+  "winners": {
+   "Chicago": 38.8,
+   "Indianapolis": 24.9,
+   "Grand Rapids": 16.8,
+   "Kansas City": 10.3,
+   "Detroit": 7.4,
+   "Cleveland": 1.0,
+   "Milwaukee": 1.0
+  }
+ },
+ "choquet": {
+  "complementarity C7-C5": {
+   "interaction": 0.1028,
+   "winner": "Chicago",
+   "ranking": [
+    "Chicago",
+    "Indianapolis",
+    "Grand Rapids",
+    "Milwaukee",
+    "Cleveland",
+    "Madison",
+    "Columbus",
+    "Cincinnati",
+    "Kansas City",
+    "Detroit",
+    "St. Louis",
+    "Pittsburgh",
+    "Louisville",
+    "Des Moines",
+    "Omaha",
+    "Minneapolis-St. Paul"
+   ],
+   "tau_vs_ws": 0.983
+  },
+  "redundancy C3-C4": {
+   "interaction": -0.0556,
+   "winner": "Chicago",
+   "ranking": [
+    "Chicago",
+    "Indianapolis",
+    "Grand Rapids",
+    "Milwaukee",
+    "Cleveland",
+    "Madison",
+    "Columbus",
+    "Kansas City",
+    "Cincinnati",
+    "Detroit",
+    "St. Louis",
+    "Pittsburgh",
+    "Louisville",
+    "Des Moines",
+    "Minneapolis-St. Paul",
+    "Omaha"
+   ],
+   "tau_vs_ws": 0.983
+  }
+ }
+}

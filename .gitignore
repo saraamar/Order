@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+# large or third-party files, re-downloaded by application/scripts/download_public.py
+application/raw/cfs_2022_pums.zip
+application/raw/*.pdf

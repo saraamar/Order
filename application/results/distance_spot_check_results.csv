@@ -1,0 +1,9 @@
+From metro,"From (lat, lon)",To county,"To (lat, lon)",OSRM miles,Google Maps miles,diff_mi,diff_%
+Chicago,"41.8607, -87.8672","Marion County, Indiana","39.7889, -86.1363",193.0,196.0,-3.0,-1.5
+Minneapolis-St. Paul,"44.9945, -93.2655","Milwaukee County, Wisconsin","43.0314, -87.9595",334.0,338.0,-4.0,-1.2
+Pittsburgh,"40.4589, -79.9414","Cuyahoga County, Ohio","41.4484, -81.6775",132.0,134.0,-2.0,-1.5
+Kansas City,"39.0270, -94.5748","Douglas County, Nebraska","41.2617, -96.0697",200.0,202.0,-2.0,-1.0
+St. Louis,"38.6543, -90.3648","Shelby County, Tennessee","35.1310, -89.8864",295.0,305.0,-10.0,-3.3
+Louisville,"38.2124, -85.6828","Hamilton County, Ohio","39.1811, -84.5091",107.0,107.0,0.0,0.0
+Des Moines,"41.6108, -93.6630","Cook County, Illinois","41.8695, -87.7580",329.0,329.0,0.0,0.0
+Omaha,"41.2399, -96.0413","Denver County, Colorado","39.7249, -104.9500",533.0,532.0,1.0,0.2
